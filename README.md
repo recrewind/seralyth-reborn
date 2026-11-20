@@ -70,12 +70,16 @@ Let's bring back the collaboration of modding. No paywalls, no secrets, no malwa
 <details>
   <summary><b>🎛️ System Compatibility</b></summary>
 	
-| Operating System | Menu | Fonts | Images | Sounds | Videos |
+| Version/System | Menu | Fonts | Images | Sounds | Videos |
 |------------------|------|--------|--------|--------|--------|
 |<img src="Resources/GitHub/windows-10.png" height=20px> Windows 10|✅|✅|✅|✅|✅|
 |<img src="Resources/GitHub/windows-11.png" height=20px> Windows 11|✅|✅|✅|✅|✅|
 |<img src="Resources/GitHub/macos.png" height=20px> Mac OS|✅|✅|✅|✅|❌|
 |<img src="Resources/GitHub/linux.png" height=20px> Linux|✅|✅|✅|✅|❌|
+|<img src="Resources/GitHub/meta.png" height=20px> Meta Quest 2|✅|✅|⚠️|⚠️|❌|
+|<img src="Resources/GitHub/meta2.png" height=20px> Meta Quest 3s|✅|✅|⚠️|⚠️|⚠️|
+|<img src="Resources/GitHub/meta3.png" height=20px> Meta Quest 3|✅|✅|⚠️|⚠️|⚠️|
+|<img src="Resources/GitHub/pico.png" height=20px> Pico|❌|❌|❌|❌|❌|
 
 > ✅ Works as intended ; ⚠️ Semi functional ; ❌ Does not work ; ❓ Untested
 
